@@ -16,7 +16,7 @@ I'm a final year B.Tech student at Model Engineering College, Thrikkakara, speci
 ## 🚀 Featured Projects
 
 ### 🎥 BioSignals
-**Video Anomaly Detection System**
+**A system to predict natural disasters by analyzing animal behavior in video footage**
 - Web application for detecting unusual behavior in video streams
 - Features admin dashboard for video upload and processing
 - Backend processing using OpenCV for anomaly detection
